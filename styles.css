@@ -1,0 +1,39 @@
+
+@font-face {
+    font-family: techSan;
+    src: url('technique_sans-webfont.woff2') format('woff2'),
+         url('technique_sans-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.b {
+	vertical-align: sub;
+	width: 40px;
+	height: 40px;
+}
+
+.a {
+	margin-bottom: 300px;
+	
+}
+
+body {
+	background-color: red;
+
+}
+
+h1 {
+	text-align: center; 
+	color: black;
+	font-family: techSan, Arial, sans-serif; 
+	font-style: italic;
+	font-size: 32px;
+}
+p {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
